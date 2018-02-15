@@ -1,0 +1,289 @@
+﻿[2018/02/15 3:19:48 PM Informational] PowerShellTestContainerDiscoverer Constructor Entering
+[2018/02/15 3:19:49 PM Informational] ------ Load Playlist started ------
+[2018/02/15 3:19:49 PM Informational] ========== Load Playlist finished (0:00:00) ==========
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:OnTestContainersChanged - FindPs1Files
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - 
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\packages\FSharp.Core.4.1.0\lib\net40\FSharp.Core.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\packages\FsUnit.2.3.2\lib\net45\FsUnit.NUnit.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\packages\FsUnit.2.3.2\lib\net45\NHamcrest.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\packages\NUnit.3.5.0\lib\net45\nunit.framework.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Numerics.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\packages\System.ValueTuple.4.3.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.dll
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\Helpers.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutTesting.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutBinding.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutMatching.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutTuples.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutLists.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutRecords.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutBasicTypes.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutFunctions.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutPatterns.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutDiscriminatedUnions.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutParametricPolymorphism.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutOptions.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutLength.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutRev.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutMap.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutFilter.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutFold.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutCombiningFunctions.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutOtherListFunctions.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutUnit.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutSeqAndArray.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutModules.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\AboutYou.fs
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\App.config
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\FSharpKoans\packages.config
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:OnTestContainersChanged - FindPs1Files
+[2018/02/15 3:20:00 PM Informational] PowerShellTestContainerDiscoverer:IsTestFile - J:\FSharpKoans-fsharp\README.markdown
+[2018/02/15 3:20:00 PM Informational] ------ Discover test started ------
+[2018/02/15 3:20:01 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:20:01 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:20:01 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:20:03 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:20:03 PM Informational] ========== Discover test finished: 142 found (0:00:03,4449721) ==========
+[2018/02/15 3:20:03 PM Informational] ------ Run test started ------
+[2018/02/15 3:20:04 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:20:04 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:20:04 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:20:04 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:20:09 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:20:09 PM Informational] ========== Run test finished: 142 run (0:00:06,3650228) ==========
+[2018/02/15 3:24:31 PM Informational] ------ Discover test started ------
+[2018/02/15 3:24:32 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:24:32 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:24:32 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:24:39 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:24:39 PM Informational] ========== Discover test finished: 142 found (0:00:07,533629) ==========
+[2018/02/15 3:24:39 PM Informational] ------ Run test started ------
+[2018/02/15 3:24:40 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:24:40 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:24:40 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:24:45 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:24:52 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:24:52 PM Informational] ========== Run test finished: 142 run (0:00:12,7397637) ==========
+[2018/02/15 3:25:45 PM Informational] ------ Discover test started ------
+[2018/02/15 3:25:46 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:25:46 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:25:46 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:25:55 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:25:55 PM Informational] ========== Discover test finished: 142 found (0:00:09,6736429) ==========
+[2018/02/15 3:25:55 PM Informational] ------ Run test started ------
+[2018/02/15 3:25:55 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:25:55 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:25:55 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:26:00 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:26:07 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:26:07 PM Informational] ========== Run test finished: 142 run (0:00:12,3145377) ==========
+[2018/02/15 3:32:42 PM Informational] ------ Discover test started ------
+[2018/02/15 3:32:42 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:32:42 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:32:42 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:32:51 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:32:51 PM Informational] ========== Discover test finished: 142 found (0:00:09,188807) ==========
+[2018/02/15 3:32:51 PM Informational] ------ Run test started ------
+[2018/02/15 3:32:51 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:32:51 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:32:51 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:32:57 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:33:03 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:33:03 PM Informational] ========== Run test finished: 142 run (0:00:12,6689348) ==========
+[2018/02/15 3:40:26 PM Informational] ------ Discover test started ------
+[2018/02/15 3:40:26 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:40:26 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:40:26 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:40:34 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:40:34 PM Informational] ========== Discover test finished: 142 found (0:00:08,3671823) ==========
+[2018/02/15 3:40:34 PM Informational] ------ Run test started ------
+[2018/02/15 3:40:35 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:40:35 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:40:35 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:40:39 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:40:46 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:40:46 PM Informational] ========== Run test finished: 142 run (0:00:12,229488) ==========
+[2018/02/15 3:42:06 PM Informational] ------ Discover test started ------
+[2018/02/15 3:42:06 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:42:06 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:42:06 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:42:14 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:42:14 PM Informational] ========== Discover test finished: 142 found (0:00:08,9144374) ==========
+[2018/02/15 3:42:14 PM Informational] ------ Run test started ------
+[2018/02/15 3:42:15 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:42:15 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:42:15 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:42:22 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:42:29 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:42:29 PM Informational] ========== Run test finished: 142 run (0:00:14,6705836) ==========
+[2018/02/15 3:43:35 PM Informational] ------ Discover test started ------
+[2018/02/15 3:43:37 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:43:37 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:43:37 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:43:45 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:43:45 PM Informational] ========== Discover test finished: 142 found (0:00:09,6618874) ==========
+[2018/02/15 3:43:45 PM Informational] ------ Run test started ------
+[2018/02/15 3:43:46 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:43:46 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:43:46 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:43:53 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:43:59 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:43:59 PM Informational] ========== Run test finished: 142 run (0:00:14,2248917) ==========
+[2018/02/15 3:59:19 PM Informational] ------ Discover test started ------
+[2018/02/15 3:59:19 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:59:19 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 3:59:19 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 3:59:27 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 3:59:27 PM Informational] ========== Discover test finished: 142 found (0:00:08,6953611) ==========
+[2018/02/15 3:59:27 PM Informational] ------ Run test started ------
+[2018/02/15 3:59:28 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 3:59:28 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 3:59:28 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 3:59:33 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 3:59:38 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 3:59:38 PM Informational] ========== Run test finished: 142 run (0:00:11,0956174) ==========
+[2018/02/15 4:00:08 PM Informational] ------ Discover test started ------
+[2018/02/15 4:00:09 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:00:09 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:00:09 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:00:17 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:00:17 PM Informational] ========== Discover test finished: 142 found (0:00:08,5553474) ==========
+[2018/02/15 4:00:17 PM Informational] ------ Run test started ------
+[2018/02/15 4:00:17 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:00:18 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:00:18 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:00:22 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:00:28 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:00:28 PM Informational] ========== Run test finished: 142 run (0:00:11,6216813) ==========
+[2018/02/15 4:01:38 PM Informational] ------ Discover test started ------
+[2018/02/15 4:01:39 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:01:39 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:01:39 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:01:45 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:01:46 PM Informational] ========== Discover test finished: 142 found (0:00:07,1235277) ==========
+[2018/02/15 4:01:46 PM Informational] ------ Run test started ------
+[2018/02/15 4:01:46 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:01:46 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:01:46 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:01:51 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:01:58 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:01:58 PM Informational] ========== Run test finished: 142 run (0:00:12,3191118) ==========
+[2018/02/15 4:02:37 PM Informational] ------ Discover test started ------
+[2018/02/15 4:02:38 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:02:38 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:02:38 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:02:46 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:02:46 PM Informational] ========== Discover test finished: 142 found (0:00:09,2526804) ==========
+[2018/02/15 4:02:46 PM Informational] ------ Run test started ------
+[2018/02/15 4:02:47 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:02:47 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:02:47 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:02:52 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:02:59 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:02:59 PM Informational] ========== Run test finished: 142 run (0:00:12,7890274) ==========
+[2018/02/15 4:04:10 PM Informational] ------ Discover test started ------
+[2018/02/15 4:04:11 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:04:11 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:04:11 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:04:19 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:04:19 PM Informational] ========== Discover test finished: 142 found (0:00:08,8683171) ==========
+[2018/02/15 4:04:19 PM Informational] ------ Run test started ------
+[2018/02/15 4:04:19 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:04:19 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:04:19 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:04:25 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:04:31 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:04:31 PM Informational] ========== Run test finished: 142 run (0:00:12,6320521) ==========
+[2018/02/15 4:06:35 PM Informational] ------ Discover test started ------
+[2018/02/15 4:06:36 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:06:36 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:06:36 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:06:43 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:06:43 PM Informational] ========== Discover test finished: 142 found (0:00:08,0798282) ==========
+[2018/02/15 4:06:43 PM Informational] ------ Run test started ------
+[2018/02/15 4:06:44 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:06:44 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:06:44 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:06:48 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:06:55 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:06:55 PM Informational] ========== Run test finished: 142 run (0:00:11,8685717) ==========
+[2018/02/15 4:08:13 PM Informational] ------ Discover test started ------
+[2018/02/15 4:08:14 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:08:14 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:08:14 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:08:20 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:08:21 PM Informational] ========== Discover test finished: 142 found (0:00:07,3955444) ==========
+[2018/02/15 4:08:21 PM Informational] ------ Run test started ------
+[2018/02/15 4:08:21 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:08:21 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:08:21 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:08:28 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:08:35 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:08:35 PM Informational] ========== Run test finished: 142 run (0:00:14,049349) ==========
+[2018/02/15 4:16:00 PM Informational] ------ Discover test started ------
+[2018/02/15 4:16:01 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:16:01 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:16:01 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:16:09 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:16:09 PM Informational] ========== Discover test finished: 142 found (0:00:08,8416125) ==========
+[2018/02/15 4:16:09 PM Informational] ------ Run test started ------
+[2018/02/15 4:16:09 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:16:09 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:16:09 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:16:14 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:16:20 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:16:20 PM Informational] ========== Run test finished: 142 run (0:00:11,0047589) ==========
+[2018/02/15 4:18:59 PM Informational] ------ Discover test started ------
+[2018/02/15 4:18:59 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:18:59 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:18:59 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:19:08 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:19:08 PM Informational] ========== Discover test finished: 142 found (0:00:09,6497356) ==========
+[2018/02/15 4:19:08 PM Informational] ------ Run test started ------
+[2018/02/15 4:19:09 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:19:09 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:19:09 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:19:14 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:19:20 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:19:20 PM Informational] ========== Run test finished: 142 run (0:00:12,0893455) ==========
+[2018/02/15 4:19:39 PM Informational] ------ Discover test started ------
+[2018/02/15 4:19:39 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:19:39 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:19:39 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:19:48 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:19:48 PM Informational] ========== Discover test finished: 142 found (0:00:09,5451738) ==========
+[2018/02/15 4:19:48 PM Informational] ------ Run test started ------
+[2018/02/15 4:19:49 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:19:49 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:19:49 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:19:54 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:20:01 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:20:01 PM Informational] ========== Run test finished: 142 run (0:00:12,5357413) ==========
+[2018/02/15 4:23:25 PM Informational] ------ Discover test started ------
+[2018/02/15 4:23:25 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:23:25 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:23:25 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:23:34 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:23:34 PM Informational] ========== Discover test finished: 142 found (0:00:09,4873778) ==========
+[2018/02/15 4:23:34 PM Informational] ------ Run test started ------
+[2018/02/15 4:23:35 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:23:35 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:23:35 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:23:40 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:23:47 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:23:47 PM Informational] ========== Run test finished: 142 run (0:00:12,8369826) ==========
+[2018/02/15 4:24:07 PM Informational] ------ Discover test started ------
+[2018/02/15 4:24:08 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:24:08 PM Error] File J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll came from another computer and was blocked to help protect this computer.
+[2018/02/15 4:24:08 PM Informational] NUnit Adapter 3.9.0.0: Test discovery starting
+[2018/02/15 4:24:17 PM Informational] NUnit Adapter 3.9.0.0: Test discovery complete
+[2018/02/15 4:24:17 PM Informational] ========== Discover test finished: 142 found (0:00:09,5902289) ==========
+[2018/02/15 4:24:17 PM Informational] ------ Run test started ------
+[2018/02/15 4:24:18 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\ENTERPRISE\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[2018/02/15 4:24:18 PM Informational] NUnit Adapter 3.9.0.0: Test execution started
+[2018/02/15 4:24:18 PM Informational] Running all tests in J:\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.dll
+[2018/02/15 4:24:24 PM Informational] NUnit3TestExecutor converted 142 of 142 NUnit test cases
+[2018/02/15 4:24:30 PM Informational] NUnit Adapter 3.9.0.0: Test execution complete
+[2018/02/15 4:24:30 PM Informational] ========== Run test finished: 142 run (0:00:13,4508389) ==========
