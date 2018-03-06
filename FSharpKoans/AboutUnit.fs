@@ -72,7 +72,7 @@ module ``20: Unit 00`` =
     [<Test>]
     let ``04 The 'ignore' function is used to map anything to 'unit'`` () =
         let doSomethingForTheSideEffect x =
-            ignore x  // ...perform side effect...
+            // ...perform side effect...
             x // return x
         doSomethingForTheSideEffect 5 |> should equal 5
         ignore (doSomethingForTheSideEffect "blorp") |> should equal ()

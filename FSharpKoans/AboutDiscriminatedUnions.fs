@@ -41,11 +41,11 @@ module ``10: The Good Kind of Discrimination`` =
     let ``02 Creating & pattern-matching a discriminated union`` () = 
         let randomOpinion degree =
             match degree with
-            | BSc (x, ComputerScience) | BSc (ComputerScience, x) -> "Good choice!"
-            | BSc (x,y) -> "!!SCIENCE!!"
+            | BSc (_, ComputerScience) | BSc (ComputerScience, _) -> "Good choice!"
+            | BSc (_,_) -> "!!SCIENCE!!"
             | BPharm -> "Meh, it's OK."
-            | (BCom(x,y)) -> "Money, money, money."
-            | (BA (x,y)) -> "A thinker, eh?"
+            | (BCom(_,_)) -> "Money, money, money."
+            | (BA (_,_)) -> "A thinker, eh?"
         randomOpinion (BSc(ComputerScience,Mathematics)) |> should equal "Good choice!"
         randomOpinion (BSc(Economics, Mathematics)) |> should equal "!!SCIENCE!!"
         randomOpinion (BCom (Management, Economics)) |> should equal "Money, money, money."

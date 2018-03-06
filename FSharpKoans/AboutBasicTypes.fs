@@ -68,12 +68,12 @@ module ``07: Strings and Conversions`` =
 
     [<Test>]
     let ``09 String formatting: %s format specifier`` () =
-        let result = sprintf "%s perfect." "Practice makes"
+        let result = sprintf "Practice makes %s"  "perfect." 
         result |> should equal "Practice makes perfect."
 
     [<Test>]
     let ``10 String formatting: %d format specifier`` () =
-        let result = sprintf "%d %s" 9 "planets, Sir, endlessly circle, Sir"
+        let result = sprintf "%d planets, Sir, endlessly circle, Sir" 9 
         result |> should equal "9 planets, Sir, endlessly circle, Sir"
 
     [<Test>]
