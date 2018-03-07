@@ -36,7 +36,7 @@ open NUnit.Framework
 *)
 
 module ``21: Sequences and Arrays`` =
-    open System.Security.Cryptography.X509Certificates
+  //  open System.Security.Cryptography.X509Certificates
 
     (*
         Because sequences are potentially infinite, we have some functions to

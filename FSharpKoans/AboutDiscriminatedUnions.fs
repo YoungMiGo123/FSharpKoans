@@ -45,7 +45,7 @@ module ``10: The Good Kind of Discrimination`` =
             | BSc (_,_) -> "!!SCIENCE!!"
             | BPharm -> "Meh, it's OK."
             | (BCom(_,_)) -> "Money, money, money."
-            | (BA (_,_)) -> "A thinker, eh?"
+            | (_) -> "A thinker, eh?"
         randomOpinion (BSc(ComputerScience,Mathematics)) |> should equal "Good choice!"
         randomOpinion (BSc(Economics, Mathematics)) |> should equal "!!SCIENCE!!"
         randomOpinion (BCom (Management, Economics)) |> should equal "Money, money, money."

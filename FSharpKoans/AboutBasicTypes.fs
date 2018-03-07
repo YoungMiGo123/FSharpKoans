@@ -68,7 +68,7 @@ module ``07: Strings and Conversions`` =
 
     [<Test>]
     let ``09 String formatting: %s format specifier`` () =
-        let result = sprintf "Practice makes %s"  "perfect." 
+        let result = sprintf "Practice makes %s." "perfect" 
         result |> should equal "Practice makes perfect."
 
     [<Test>]
@@ -78,12 +78,12 @@ module ``07: Strings and Conversions`` =
 
     [<Test>]
     let ``11 String formatting: %b format specifier`` () =
-        let result = sprintf "%s %b, %s." "It's" true "it is"
+        let result = sprintf "It's %b, it is." true
         result  |> should equal "It's true, it is."
 
     [<Test>]
     let ``12 String formatting: %c format specifier`` () =
-        let result = sprintf "%c %s." 'X' "marks the spot" 
+        let result = sprintf "%c marks the spot." 'X' 
         result |> should equal "X marks the spot."
 
     // specify a precision using %.Nf, where N is an integer

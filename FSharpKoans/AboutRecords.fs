@@ -45,9 +45,9 @@ module ``06: On the Record`` =
     [<Test>]
     let ``03 Decomposing with a record pattern`` () =
         let book = { Title="Dune"; Author="Frank Herbert"; Year=1965 }
-        let {Title=Title;Year=Year} = book
-        Title |> should equal "Dune" // DO NOT use a . symbol in your answer
-        Year |> should equal 1965 // DO NOT use a . symbol in your answer
+        let {Title=title;Year=year} = book
+        title |> should equal "Dune" // DO NOT use a . symbol in your answer
+        year |> should equal 1965 // DO NOT use a . symbol in your answer
 
     [<Test>]
     let ``04 Decomposing in a match expression`` () =

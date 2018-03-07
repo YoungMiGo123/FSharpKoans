@@ -36,8 +36,8 @@ module ``03: Match expressions`` =
         | 100 -> ()
         | 19 -> ()
         | y ->
-            y |> should equal y
-            x |> should equal x
+            y |> should equal 213
+            x |> should equal 213
         y |> should equal 19
         x |> should equal 213
 

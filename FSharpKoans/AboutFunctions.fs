@@ -257,7 +257,7 @@ module ``08: Putting the Function into Functional Programming`` =
 
     [<Test>]
     let ``29 We can use a type annotation for a function's output`` () =
-        let k a b : (float) = a * b
+        let k a b : float = a * b
         k 3.0 5.0 |> should equal 15.0 
 
     (*

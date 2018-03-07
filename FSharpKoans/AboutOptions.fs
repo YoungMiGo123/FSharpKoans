@@ -53,7 +53,7 @@ module ``12: Exploring your options`` =
         let parse s =
             match System.Int32.TryParse s with
             | true,s -> Some s // <-- fill in the match cases
-            | false,s -> None
+            | _ -> None
         parse "25" |> should equal (Some 25)
         parse "48" |> should equal (Some 48)
         parse "wut" |> should equal None
